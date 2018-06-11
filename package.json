@@ -9,9 +9,7 @@
   "author": "Tom A. Vibeto <tom@onlyhuman.dk> (https://onlyhuman.dk)",
   "license": "ISC",
   "dependencies": {
-    "clean-stacktrace": "^1.1.0",
     "multi-ini": "^2.0.0",
-    "semver": "^5.5.0",
     "zip-dir": "^1.0.2"
   }
 }
